@@ -15,20 +15,35 @@ Original Dataset Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-anal
 The following columns have been retained in this modified dataset:​
 
 Age: Age of the employee.​  
+
 BusinessTravel: Frequency of travel for business purposes.​
+
 Department: Department in which the employee works.​
+
 DistanceFromHome: Distance between the employee's residence and workplace.​
+
 Education: Educational level achieved by the employee.​
+
 Gender: Gender of the employee.​
+
 JobInvolvement: Level of involvement in work-related activities.​
+
 JobLevel: Job level within the organization (e.g., 5: CEO/Executive, etc.).​
+
 JobRole: Specific role or position held by the employee.​
+
 JobSatisfaction: Employee's satisfaction with the job (e.g., environment, colleagues, supervisor).​
+
 MaritalStatus: Marital status of the employee.​
+
 MonthlyIncome: Monthly income of the employee.​
+
 OverTime: Indicates if the employee works overtime.​
+
 PerformanceRating: Performance rating of the employee.​
+
 WorkLifeBalance: Assessment of work-life balance.
+
 YearsAtCompany: Number of years the employee has been with the company.​
 
 All other columns present in the original dataset have been removed to streamline the analysis.​
